@@ -1,0 +1,45 @@
+
+
+html{
+    background: #25236e;
+    text-align: center;
+    color: #d5dbf0;
+}
+
+
+.textbox{
+    font-family: 'Barlow', sans-serif;
+    border: 2px solid #FFFFFF;
+    background: #6b7bc2;
+    color: #d5dbf0;
+    text-align: center;
+    height: 30%;
+    width: 30%;
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+    justify-content: space-around;
+}
+
+
+.smart{
+    height: 15vh;
+    width: auto;
+}
+
+
+
+
+
